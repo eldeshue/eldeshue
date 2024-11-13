@@ -24,7 +24,7 @@
 
 
 ## Algorithm Challenge!!! <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px">
-저는 알고리즘의 광팬입니다. 매일 BOJ에서 한 문제, Leetcode에서 한 문제 총 두 문제를 푸는 챌린지를 진행중입니다!
+저는 알고리즘을 정말 좋아합니다. 매일 BOJ에서 한 문제, Leetcode에서 한 문제 총 두 문제를 푸는 챌린지를 진행중입니다!
 
 ### BOJ, 537 streak(24.11.13 기준)
 
