@@ -2,9 +2,7 @@
 
 I’m a programmer who is interested in System/Game development. Currently, I am studying mainly on 42Seoul.
 
-<div>
-  <img alt="Static Badge" src="https://img.shields.io/badge/42Seoul-%23000000?style=for-the-badge&logo=42">  
-</div>
+현재 <div>  <img alt="Static Badge" src="https://img.shields.io/badge/42Seoul-%23000000?style=for-the-badge&logo=42">  </div>에서 공부중입니다.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
