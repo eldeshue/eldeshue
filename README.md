@@ -13,6 +13,20 @@ I’m a Software Engineer who is interested in System/Game development. Currentl
 
 ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
 
+
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/42Seoul-%23000000?style=for-the-badge&logo=42">  
+  <img alt="Static Badge" src="https://img.shields.io/badge/Udemy-%23A435F0?style=for-the-badge&logo=udemy&logoColor=%23FFFFFF">  
+  <img alt="Static Badge" src="https://img.shields.io/badge/inflearn-%2364c681?style=for-the-badge">
+</div>
+
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=%23FFFFFF">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=Spring&logoColor=%23FFFFFF">  
+  <img alt="Static Badge" src="https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs">
+</div>
+
 ## Algorithm Challenge!!! <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px">
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iphuck22)](https://solved.ac/iphuck22)
@@ -27,4 +41,5 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iphuck22)](https://so
 <a href="https://github.com/eldeshue">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eldeshue&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Dohoon Gwak's github stats" height="220px" />
 </a>
+
 
