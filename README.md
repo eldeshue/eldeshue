@@ -2,9 +2,13 @@
 
 단순한 개발자를 넘어, 프로그래머가 되기를 희망하는 곽도훈입니다. 정교하고 효율적인 코드를 지향합니다.
 
-- 🔭 현재 <img alt="Static Badge" src="https://img.shields.io/badge/42Seoul-%23000000?style=for-the-badge&logo=42">에서 여러 프로젝트를 수행하며 공부중입니다.
-- 🌱 현재 알고리즘과 함수형 C++를 공부하고 있습니다.
-- 🤔 앞으로 그래픽스(DirectX, Rendering Pipeline)와 물리엔진에 대해서 공부하고 싶습니다.
+- 🔭 현재 <img alt="Static Badge" src="https://img.shields.io/badge/42Seoul-%23000000?style=for-the-badge&logo=42">에서 프로젝트 진행중
+- 🌱 함수형 C++과 TCP/IP 프로토콜, Suffix Array에 대해서 공부중
+- 🤔 주요 관심사
+  - Algorithm : Problem Solving, Numerical Analysis, etc
+  - Computer Graphics : Rendering Pipeline, Computational Geometry...
+  - Systems : Linux, Window, ...
+- 🔍 게임 산업, 그 중에서도 엔진 개발과 관련된 직업을 희망합니다.
 - 📫 : eldeshue@naver.com
 
 ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
@@ -12,7 +16,12 @@
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=%23FFFFFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B">
+  <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white"/>
+  <img alt="Static Badge" src ="https://img.shields.io/badge/vim-019733.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
 </div>
+
 
 ## Algorithm Challenge!!! <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px">
 저는 알고리즘의 광팬입니다. 매일 BOJ에서 한 문제, Leetcode에서 한 문제 총 두 문제를 푸는 챌린지를 진행중입니다!
