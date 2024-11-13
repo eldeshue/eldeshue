@@ -1,6 +1,9 @@
 <h1>Howdy, I'm Dohoon Gwak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
 
 I’m a Software Engineer who is interested in System/Game development. Currently, I am studying mainly on 42Seoul.
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/42Seoul-%23000000?style=for-the-badge&logo=42">  
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,16 +18,8 @@ I’m a Software Engineer who is interested in System/Game development. Currentl
 
 
 <div>
-  <img alt="Static Badge" src="https://img.shields.io/badge/42Seoul-%23000000?style=for-the-badge&logo=42">  
-  <img alt="Static Badge" src="https://img.shields.io/badge/Udemy-%23A435F0?style=for-the-badge&logo=udemy&logoColor=%23FFFFFF">  
-  <img alt="Static Badge" src="https://img.shields.io/badge/inflearn-%2364c681?style=for-the-badge">
-</div>
-
-<div>
   <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=%23FFFFFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=Spring&logoColor=%23FFFFFF">  
-  <img alt="Static Badge" src="https://img.shields.io/badge/NestJS-%23E0234E?style=for-the-badge&logo=nestjs">
 </div>
 
 ## Algorithm Challenge!!! <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px">
