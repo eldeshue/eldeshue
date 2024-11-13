@@ -25,12 +25,12 @@ I’m a programmer who is interested in System/Game development. Currently, I am
 
 ## Algorithm Challenge!!! <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px">
 저는 PS의 광팬입니다. 매일 BOJ에서 한 문제, Leetcode에서 한 문제 총 두 문제를 푸는 챌린지를 진행중입니다!
-### BOJ, 현재 537 streak(24.11.13 기준)
+### BOJ, 537 streak(24.11.13 기준)
 
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iphuck22)](https://solved.ac/iphuck22)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=iphuck22&theme=dark)
-### Leetcode, 현재 226 streak(24.11.13 기준)
+### Leetcode, 226 streak(24.11.13 기준)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/iphuck22?ext=heatmap)
 
