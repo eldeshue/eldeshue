@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Dohoon Gwak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
+<h1>Howdy, I'm Dohoon Gwak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
 
 I’m a Software Engineering who is interested in System/Game development. Currently, I am studying mainly on 42Seoul.
 
@@ -10,6 +10,9 @@ Want to know more about me?
 
 ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
 
+## Algorithm Challenge <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px">
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={iphuck22})](https://solved.ac/{iphuck22})
 
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 <a href="https://github.com/eldeshue">
