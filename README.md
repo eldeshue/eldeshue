@@ -12,7 +12,7 @@ Want to know more about me?
 
 ## Algorithm Challenge <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px">
 [![Solved.ac
-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={iphuck22})](https://solved.ac/{iphuck22})
+Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iphuck22)](https://solved.ac/iphuck22)
 
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 <a href="https://github.com/eldeshue">
