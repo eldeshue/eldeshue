@@ -30,11 +30,17 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iphuck22)](https://so
 ![Leetcode Stats](https://leetcard.jacoblin.cool/iphuck22?ext=heatmap)
 
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
-<a href="https://github.com/eldeshue">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldeshue&show_icons=true&theme=dark&langs_count=8&count_private=true&card_width=280" height="220px"/>
+<div>
+<a href="https://github.com/eldeshue/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldeshue&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=38% />
 </a>
-<a href="https://github.com/eldeshue">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=eldeshue&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27"  alt="Dohoon Gwak's github stats" height="220px" />
+<a href="https://github.com/eldeshue/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=eldeshue&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
+</div>
 
-
+<div>
+<a href="https://github.com/yhames/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yhames&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
+</div>
