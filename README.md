@@ -41,6 +41,6 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iphuck22)](https://so
 
 <div>
 <a href="https://github.com/yhames/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yhames&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eldeshue&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 </div>
