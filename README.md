@@ -4,7 +4,7 @@
 
 - 🔭 현재 <img alt="Static Badge" src="https://img.shields.io/badge/42Seoul-%23000000?style=for-the-badge&logo=42">에서 여러 프로젝트를 수행하며 공부중입니다.
 - 🌱 현재 알고리즘과 함수형 C++를 공부하고 있습니다.
-- 🤔 앞으로 그래픽스(DirectX)와 물리엔진에 대해서 공부하고 싶습니다.
+- 🤔 앞으로 그래픽스(DirectX, Rendering Pipeline)와 물리엔진에 대해서 공부하고 싶습니다.
 - 📫 : eldeshue@naver.com
 
 ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
