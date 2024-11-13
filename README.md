@@ -14,7 +14,8 @@ Want to know more about me?
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iphuck22)](https://solved.ac/iphuck22)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=iphuck22&theme=dark)
-<img src="http://mazandi.herokuapp.com/api?handle=iphuck22&theme=dark"/>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
 
 ## Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
 <a href="https://github.com/eldeshue">
