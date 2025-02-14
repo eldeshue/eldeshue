@@ -22,16 +22,28 @@
   <img alt="Static Badge" src ="https://img.shields.io/badge/vim-019733.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
 </div>
 
+## Currently Working Projects :pencil:
+
+- [Mind Palace](https://github.com/eldeshue/MindPalace) : 공부한 내용을 정리한 obsidian repo 
+- [Just1RCe](https://github.com/shelldivers/Just1RCe) : IRC 프로토콜을 구현한 싱글 스레드, TCP/IP 서버
+- [My Algorithm]() : 
+
+## Previous Projects :pushpin: 
+
+- [My Numerical Analysis](https://github.com/eldeshue/My_Numerical_Analysis_Library) : 수치해석
+- [ft_container](https://github.com/eldeshue/ft_container) : C언어로 작성한 유사 STL 범용 자료구조 라이브러리
+- [FDF](https://github.com/eldeshue/FDF) : C언어로 작성한 와이어프레임 렌더러
+- [miniRT](https://github.com/eldeshue/miniRT) : C언어로 작성한 레이트레이서
 
 ## Algorithm Challenge!!! <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px">
 저는 알고리즘을 정말 좋아합니다. 매일 BOJ에서 한 문제, Leetcode에서 한 문제 총 두 문제를 푸는 챌린지를 진행중입니다!
 
-### BOJ, 537 streak(24.11.13 기준)
+### BOJ, 629 streak(25.02.14 기준)
 
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iphuck22)](https://solved.ac/iphuck22)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=iphuck22&theme=dark)
-### Leetcode, 226 streak(24.11.13 기준)
+### Leetcode, 319 streak(25.02.14 기준)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/iphuck22?ext=heatmap)
 
@@ -46,7 +58,7 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iphuck22)](https://so
 </div>
 
 <div>
-<a href="https://github.com/yhames/github-readme-activity-graph">
+<a href="https://github.com/eldeshue/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eldeshue&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 </div>
