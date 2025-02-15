@@ -26,7 +26,7 @@
 
 - [Mind Palace](https://github.com/eldeshue/MindPalace) : 공부한 내용을 정리한 obsidian repo 
 - [Just1RCe](https://github.com/shelldivers/Just1RCe) : IRC 프로토콜을 구현한 싱글 스레드, TCP/IP 서버
-- [My Algorithm]() : 데일리 알고리즘 챌린지
+- [Problem Solving](https://github.com/eldeshue/PS) : 데일리 알고리즘 챌린지 및 알고리즘용 코드
 
 ## Previous Projects :pushpin: 
 
