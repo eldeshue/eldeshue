@@ -3,7 +3,7 @@
 단순한 개발자를 넘어, 프로그래머가 되기를 희망하는 곽도훈입니다. 정교하고 효율적인 코드를 지향합니다.
 
 - 🔭 현재 <img alt="Static Badge" src="https://img.shields.io/badge/42Seoul-%23000000?style=for-the-badge&logo=42">에서 프로젝트 진행중
-- 🌱 함수형 C++과 TCP/IP 프로토콜, Suffix Array에 대해서 공부중
+- 🌱 Rust, DirectX 학습중<h1>Howdy, I'm Dohoon Gwak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
 - 🤔 주요 관심사
   - Algorithm : Problem Solving, Numerical Analysis, etc
   - Computer Graphics : Rendering Pipeline, Computational Geometry...
@@ -16,6 +16,7 @@
 <div>
   <img alt="Static Badge" src="https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=C&logoColor=%23FFFFFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B">
+  <img alt="Static Badge" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
   <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual%20Studio-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=white"/>
@@ -24,12 +25,12 @@
 
 ## Currently Working Projects :pencil:
 
-- [Mind Palace](https://github.com/eldeshue/MindPalace) : 공부한 내용을 정리한 obsidian repo 
-- [Just1RCe](https://github.com/shelldivers/Just1RCe) : IRC 프로토콜을 구현한 싱글 스레드, TCP/IP 서버
+- [Mind Palace](https://github.com/eldeshue/MindPalace) : 공부한 내용을 정리한 obsidian repo (현재 비공개, 배포를 위해서 수정 중)
+- [UnderthRust](https://github.com/Yeongtong42/UnderthRust) : Rust로 작성한 알고리즘 및 자료구조 프로젝트
 - [Problem Solving](https://github.com/eldeshue/PS) : 데일리 알고리즘 챌린지 및 알고리즘용 코드
 
 ## Previous Projects :pushpin: 
-
+- [Just1RCe](https://github.com/shelldivers/Just1RCe) : IRC 프로토콜을 구현한 싱글 스레드, TCP/IP 서버
 - [My Numerical Analysis](https://github.com/eldeshue/My_Numerical_Analysis_Library) : 수치해석
 - [ft_container](https://github.com/eldeshue/ft_container) : C언어로 작성한 유사 STL 범용 자료구조 라이브러리
 - [FDF](https://github.com/eldeshue/FDF) : C언어로 작성한 와이어프레임 렌더러
@@ -38,7 +39,7 @@
 ## Algorithm Challenge!!! <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px">
 저는 알고리즘을 정말 좋아합니다. 매일 BOJ에서 한 문제, Leetcode에서 한 문제 총 두 문제를 푸는 챌린지를 진행중입니다!
 
-### BOJ, 629 streak(25.02.14 기준)
+### BOJ, 744 streak(25.06.12 기준)
 
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iphuck22)](https://solved.ac/iphuck22)
