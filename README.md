@@ -1,9 +1,8 @@
 <h1>Howdy, I'm Dohoon Gwak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
 
 단순한 개발자를 넘어, 프로그래머가 되기를 희망하는 곽도훈입니다. 정교하고 효율적인 코드를 지향합니다.
-
 - 🔭 현재 <img alt="Static Badge" src="https://img.shields.io/badge/42Seoul-%23000000?style=for-the-badge&logo=42">에서 프로젝트 진행중
-- 🌱 Rust, DirectX 학습중<h1>Howdy, I'm Dohoon Gwak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
+- 🌱 Rust, DirectX 학습중   
 - 🤔 주요 관심사
   - Algorithm : Problem Solving, Numerical Analysis, etc
   - Computer Graphics : Rendering Pipeline, Computational Geometry...
