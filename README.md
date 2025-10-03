@@ -2,7 +2,7 @@
 
 단순한 개발자를 넘어, 프로그래머가 되기를 희망하는 곽도훈입니다. 정교하고 효율적인 코드를 지향합니다.
 - 🔭 현재 <img alt="Static Badge" src="https://img.shields.io/badge/42Seoul-%23000000?style=for-the-badge&logo=42">에서 프로젝트 진행중
-- 🌱 Vulkan 학습중   
+- 🌱 Vulkan 학습중, 그래픽 엔진 구현 프로젝트
 - 🤔 주요 관심사
   - Algorithm : Problem Solving, etc
   - Computer Graphics : Rendering Dependency Graph...
@@ -24,6 +24,7 @@
 
 ## Currently Working Projects :pencil:
 
+- [Graph Runner](https://github.com/eldeshue/GraphRunner) : Cross-platform Graphic Engine 구현 프로젝트
 - [UnderthRust](https://github.com/Yeongtong42/UnderthRust) : Rust로 작성한 알고리즘 및 자료구조 프로젝트
 - [Problem Solving](https://github.com/eldeshue/PS) : 데일리 알고리즘 챌린지 및 알고리즘용 코드
 
@@ -37,7 +38,7 @@
 ## Algorithm Challenge!!! <img src="https://media.giphy.com/media/QBw33dFlgxnzXSAS27/giphy.gif" width="25px">
 저는 알고리즘을 정말 좋아합니다. 매일 BOJ에서 한 문제를 푸는 챌린지를 진행중입니다!
 
-### BOJ, 837 streak(25.09.14 기준)
+### BOJ, 855 streak(25.10.04 기준)
 
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iphuck22)](https://solved.ac/iphuck22)
